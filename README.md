@@ -8,7 +8,7 @@ The Ford GoBike System dataset includes information about individual rides made 
 
 I loaded my dataset using the .head() method and went ahead to get the general features of my data using the .info() method. There were null values in the dataset, so i droped them. This thus reduced the number of entries in my dataset. I got the general descriptive analysis of the dataset using the .describe() method. 
 
-Yay, my data is good to go for the exploratory analysis. Excited to see what the data saya about our title?, lets get to it.
+Yay, my data is good to go for the exploratory analysis. Excited to see what the data says about our title?, lets get to it.
 
 ## Summary of Findings
 
